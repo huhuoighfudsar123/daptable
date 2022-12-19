@@ -48,7 +48,8 @@ echo '{
                 "network": "ws",
                 "security": "none"
                 "wsSettings": {
-                 "path": "'/vless/$id'"
+                 "path": "/vless/$id"
+                 }
             }
         },
         {
